@@ -153,11 +153,11 @@ The simple_shell is designed to execute commands in a similar manner to sh, howe
  history
 
 
-Authors
+# Authors
 
 Bello AbdulHakeem | <olamideakanni2020@gmail.com> | https://www.linkedin.com/in/bello-abdulhakeem-9a759720b
 
-License
+# License
 
 simple_shell is open source and therefore free to download and use without permission.
 
